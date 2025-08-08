@@ -1,0 +1,94 @@
+{
+    "shots": [
+      {
+        "timestamp_of_outcome": "0:01.0",
+        "result": "Good",
+        "shot_type": "Serve",
+        "point_winner": "Team 1 (Near Side)",
+        "current_score": "0-0-1",
+        "shot_by_player": "Player 1 (Me)",
+        "feedback": "Great serve! Try to focus on keeping it lower over the net to make it harder for your opponent to attack."
+      },
+      {
+        "timestamp_of_outcome": "0:11.5",
+        "result": "Winner",
+        "shot_type": "Jumping Overhead Smash",
+        "point_winner": "Team 1 (Near Side)",
+        "current_score": "1-0-1",
+        "shot_by_player": "Player 1 (Me)",
+        "feedback": "Great aggressive put-away. You recognized the high ball and finished the point decisively."
+      },
+      {
+        "timestamp_of_outcome": "0:17.0",
+        "result": "Error",
+        "shot_type": "Forehand into Net",
+        "point_winner": "Team 2 (Far Side)",
+        "current_score": "0-0-2 (Side Out)",
+        "shot_by_player": "Player 2 (Partner)",
+        "feedback": "You were a bit jammed on that shot. Give yourself more space to get a clean, full swing."
+      },
+      {
+        "timestamp_of_outcome": "0:22.0",
+        "result": "Error",
+        "shot_type": "Dink into Net",
+        "point_winner": "Team 2 (Far Side)",
+        "current_score": "1-0-2",
+        "shot_by_player": "Player 2 (Partner)",
+        "feedback": "You're getting low, which is good, but focus on lifting the ball over the net. Keep your paddle face slightly open on those dinks."
+      },
+      {
+        "timestamp_of_outcome": "0:25.0",
+        "result": "Error",
+        "shot_type": "Serve into Net",
+        "point_winner": "Team 2 (Far Side)",
+        "current_score": "1-2-2 (Side Out)",
+        "shot_by_player": "Player 1 (Me)",
+        "feedback": "Don't give away a free point on the serve. Focus on a simple, consistent motion to get the game started."
+      },
+      {
+        "timestamp_of_outcome": "0:30.0",
+        "result": "Error",
+        "shot_type": "Forehand Out of Bounds",
+        "point_winner": "Team 2 (Far Side)",
+        "current_score": "2-2-2",
+        "shot_by_player": "Player 2 (Partner)",
+        "feedback": "You tried to do too much with that shot. When off-balance, just focus on getting the ball back in play and resetting the point."
+      },
+      {
+        "timestamp_of_outcome": "0:35.5",
+        "result": "Error",
+        "shot_type": "Dink Out of Bounds",
+        "point_winner": "Team 1 (Near Side)",
+        "current_score": "2-2-1 (Side Out)",
+        "shot_by_player": "Player 3 (Far Left)",
+        "feedback": "Unforced errors at the net lose games. Stay patient in the dink rally and wait for a better ball to attack."
+      },
+      {
+        "timestamp_of_outcome": "0:40.0",
+        "result": "Error",
+        "shot_type": "Dink into Net",
+        "point_winner": "Team 1 (Near Side)",
+        "current_score": "3-2-1",
+        "shot_by_player": "Player 3 (Far Left)",
+        "feedback": "That's two dink errors in a row. Bend your knees, don't just reach with your arm. Stay low and lift."
+      },
+      {
+        "timestamp_of_outcome": "0:45.0",
+        "result": "Error",
+        "shot_type": "Forehand Volley into Net",
+        "point_winner": "Team 2 (Far Side)",
+        "current_score": "3-2-2 (Second Server)",
+        "shot_by_player": "Player 1 (Me)",
+        "feedback": "Keep your volley motion short and compact. No need for a big backswing, just punch and keep the paddle face stable."
+      },
+      {
+        "timestamp_of_outcome": "0:51.0",
+        "result": "Error",
+        "shot_type": "Dink into Net",
+        "point_winner": "Team 2 (Far Side)",
+        "current_score": "2-3-2 (Side Out)",
+        "shot_by_player": "Player 2 (Partner)",
+        "feedback": "Too many points are ending with a ball in the net. Focus on clearing it by a few inches every time. A high dink is better than an error."
+      }
+    ]
+  }

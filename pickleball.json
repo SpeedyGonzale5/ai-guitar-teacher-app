@@ -1,0 +1,85 @@
+{
+  "points": [
+    {
+      "timestamp_of_outcome": "0:05",
+      "point_winner": "Far Side Team",
+      "score_after_point": "Side Out (0-0-1)",
+      "concluding_shot_player": "Player in Blue Shirt (Foreground)",
+      "concluding_shot_type": "Forehand Dink",
+      "concluding_shot_result": "Net Error",
+      "feedback": "When dinking cross-court, keep your opponent deep. Stay low and push with your legs and core, not just your arm."
+    },
+    {
+      "timestamp_of_outcome": "0:09",
+      "point_winner": "Far Side Team",
+      "score_after_point": "1-0-1",
+      "concluding_shot_player": "Player in Brown Tank Top (Foreground)",
+      "concluding_shot_type": "Third Shot Drop",
+      "concluding_shot_result": "Net Error",
+      "feedback": "The third shot is crucial. Take a step back, let the ball drop lower, and lift with a soft paddle face."
+    },
+    {
+      "timestamp_of_outcome": "0:15",
+      "point_winner": "Foreground Team",
+      "score_after_point": "Side Out (1-0-2)",
+      "concluding_shot_player": "Player in White Shirt (Far Side)",
+      "concluding_shot_type": "Forehand Dink",
+      "concluding_shot_result": "Net Error",
+      "feedback": "Watch the ball all the way to the paddle. Don't lose concentration on simple shots."
+    },
+    {
+      "timestamp_of_outcome": "0:20",
+      "point_winner": "Far Side Team",
+      "score_after_point": "Side Out (0-1-1)",
+      "concluding_shot_player": "Player in Brown Tank Top (Foreground)",
+      "concluding_shot_type": "Backhand Dink",
+      "concluding_shot_result": "Net Error",
+      "feedback": "Get all the way to the non-volley line. Don't get stuck in the transition zone."
+    },
+    {
+      "timestamp_of_outcome": "0:27",
+      "point_winner": "Far Side Team",
+      "score_after_point": "Side Out (1-0-2)",
+      "concluding_shot_player": "Player in Brown Tank Top (Foreground)",
+      "concluding_shot_type": "Forehand Drive",
+      "concluding_shot_result": "Net Error",
+      "feedback": "Don't force aggressive drives from low positions. Reset with a defensive dink instead."
+    },
+    {
+      "timestamp_of_outcome": "0:31",
+      "point_winner": "Far Side Team",
+      "score_after_point": "Side Out (0-1-1)",
+      "concluding_shot_player": "Player in Blue Shirt (Foreground)",
+      "concluding_shot_type": "Forehand Return",
+      "concluding_shot_result": "Wide Error",
+      "feedback": "Hit returns deep and center. Keep your body square and aim for larger targets."
+    },
+    {
+      "timestamp_of_outcome": "0:40",
+      "point_winner": "Foreground Team",
+      "score_after_point": "Side Out (1-0-2)",
+      "concluding_shot_player": "Player in Brown Tank Top (Foreground)",
+      "concluding_shot_type": "Forehand Drive",
+      "concluding_shot_result": "Winner",
+      "feedback": "Excellent shot! You recognized the high ball and attacked the open space perfectly."
+    },
+    {
+      "timestamp_of_outcome": "0:49",
+      "point_winner": "Far Side Team",
+      "score_after_point": "Side Out (0-1-1)",
+      "concluding_shot_player": "Player in Brown Tank Top (Foreground)",
+      "concluding_shot_type": "Forehand Volley",
+      "concluding_shot_result": "Net Error",
+      "feedback": "That volley was too risky. Use a reset volley to neutralize their attack instead."
+    },
+    {
+      "timestamp_of_outcome": "0:55",
+      "point_winner": "Far Side Team",
+      "score_after_point": "Side Out (1-0-1)",
+      "concluding_shot_player": "Player in Blue Shirt (Foreground)",
+      "concluding_shot_type": "Backhand Return",
+      "concluding_shot_result": "Wide Error",
+      "feedback": "Move your feet to get behind the ball. Don't just reach with your arm."
+    }
+  ]
+} 

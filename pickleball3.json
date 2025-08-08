@@ -1,0 +1,49 @@
+{
+  "shots": [
+    {
+      "timestamp_of_outcome": "0:07.5",
+      "result": "Error",
+      "shot_type": "Dink into Net",
+      "point_winner": "Opponent",
+      "current_score": "1-0",
+      "shot_by_player": "Me",
+      "feedback": "You're reaching instead of moving your feet. Get closer to the ball, stay low, and lift. Don't give away easy points at the kitchen."
+    },
+    {
+      "timestamp_of_outcome": "0:17.5",
+      "result": "Error",
+      "shot_type": "Overhead Smash Out of Bounds",
+      "point_winner": "Opponent",
+      "current_score": "2-0",
+      "shot_by_player": "Me",
+      "feedback": "Good aggressive idea, but you overhit it. Aim for a spot deep in the court, not just for power. Placement over power wins points."
+    },
+    {
+      "timestamp_of_outcome": "0:29.5",
+      "result": "Error",
+      "shot_type": "Dink into Net",
+      "point_winner": "Opponent",
+      "current_score": "3-0",
+      "shot_by_player": "Me",
+      "feedback": "That's another unforced error at the net. You need to drill your dinks until they are automatic. Focus on soft hands and a consistent, low-to-high motion."
+    },
+    {
+      "timestamp_of_outcome": "0:37.0",
+      "result": "Error",
+      "shot_type": "Third Shot Drop into Net",
+      "point_winner": "Opponent",
+      "current_score": "4-0",
+      "shot_by_player": "Me",
+      "feedback": "The third shot is the most important shot in pickleball. You're hitting it too flat. Open the paddle face and give it more arc to drop it softly into the kitchen."
+    },
+    {
+      "timestamp_of_outcome": "0:50.0",
+      "result": "Error",
+      "shot_type": "Forehand into Net",
+      "point_winner": "Me",
+      "current_score": "1-4",
+      "shot_by_player": "Opponent",
+      "feedback": "Your consistent returns forced that error. By keeping the ball in play and applying pressure, you made him miss. Good patience."
+    }
+  ]
+}

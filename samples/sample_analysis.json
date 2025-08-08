@@ -1,0 +1,28 @@
+{
+  "shots": [
+    {
+      "timestamp_of_outcome": "0:15",
+      "shot_by_player": "Player 1",
+      "shot_type": "Forehand Drive",
+      "point_winner": "Foreground Team", 
+      "current_score": "1-0-1",
+      "feedback": "Excellent shot placement! The forehand was executed with perfect timing and court positioning."
+    },
+    {
+      "timestamp_of_outcome": "0:32",
+      "shot_by_player": "Player 2", 
+      "shot_type": "Backhand Slice",
+      "point_winner": "Far Side Team",
+      "current_score": "1-1-2", 
+      "feedback": "Great defensive shot with good court coverage and effective placement."
+    },
+    {
+      "timestamp_of_outcome": "0:48",
+      "shot_by_player": "Player 1",
+      "shot_type": "Overhead Smash",
+      "point_winner": "Foreground Team",
+      "current_score": "2-1-1",
+      "feedback": "Powerful overhead execution with excellent timing and aggressive net play."
+    }
+  ]
+}
