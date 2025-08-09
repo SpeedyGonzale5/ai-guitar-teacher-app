@@ -1,0 +1,109 @@
+{
+  "feedback_analysis": [
+    {
+      "time": "0:02s",
+      "chord": "Am (shape)",
+      "analysisTitle": "Am — STRONG VERSE START",
+      "accuracy": "95%",
+      "feedback": "Excellent start. The arpeggiated picking pattern is clean, well-paced, and sets the mood of the song perfectly. All notes are clear."
+    },
+    {
+      "time": "0:05s",
+      "chord": "E7 (shape)",
+      "analysisTitle": "E7 — MINOR FINGER SLIP",
+      "accuracy": "88%",
+      "feedback": "Good transition, but the G# note on the G-string is slightly muted. Double-check that your fretting finger is properly arched to avoid contact with the adjacent string."
+    },
+    {
+      "time": "0:08s",
+      "chord": "G (shape)",
+      "analysisTitle": "G MAJOR — CONFIDENT CHANGE",
+      "accuracy": "96%",
+      "feedback": "This is a very clean and confident chord change. Your rhythm remains perfectly steady, which is crucial for the song's drive."
+    },
+    {
+      "time": "0:11s",
+      "chord": "D (shape)",
+      "analysisTitle": "D MAJOR — FRET BUZZ",
+      "accuracy": "85%",
+      "feedback": "There's a noticeable buzz on the high E string. Make sure your ring finger is pressing down firmly and positioned right behind the fret."
+    },
+    {
+      "time": "0:15s",
+      "chord": "F (shape)",
+      "analysisTitle": "F BARRE — NOTES MUTED",
+      "accuracy": "78%",
+      "feedback": "The most challenging chord of the verse. The B string is not ringing out. Focus on rolling your index finger slightly to apply even pressure across all strings for this barre."
+    },
+    {
+      "time": "0:18s",
+      "chord": "C (shape)",
+      "analysisTitle": "C MAJOR — GOOD RECOVERY",
+      "accuracy": "92%",
+      "feedback": "You recovered well from the F chord. The transition to C is smooth and gets the progression back on solid ground."
+    },
+    {
+      "time": "0:22s",
+      "chord": "Dm (shape)",
+      "analysisTitle": "D MINOR — SLIGHT HESITATION",
+      "accuracy": "86%",
+      "feedback": "A slight pause is audible before this change. Practice the C to Dm transition repeatedly to build muscle memory and eliminate the delay."
+    },
+    {
+      "time": "0:25s",
+      "chord": "E7 (shape)",
+      "analysisTitle": "E7 — END OF VERSE",
+      "accuracy": "90%",
+      "feedback": "A solid E7 to end the verse progression. The timing here is good, leading well into the next section."
+    },
+    {
+      "time": "0:30s",
+      "chord": "F (shape)",
+      "analysisTitle": "CHORUS: F — BETTER BARRE",
+      "accuracy": "84%",
+      "feedback": "Your barre chord is stronger here in the chorus. Still a slight mute on the B string, but much improved. Keep building that index finger strength."
+    },
+    {
+      "time": "0:33s",
+      "chord": "C (shape)",
+      "analysisTitle": "CHORUS: C — RUSHED STRUM",
+      "accuracy": "88%",
+      "feedback": "The chord is clean, but the first strum was slightly ahead of the beat. Be mindful to stay locked into the tempo, especially during the chorus."
+    },
+    {
+      "time": "0:36s",
+      "chord": "E7 (shape)",
+      "analysisTitle": "CHORUS: E7 — TIMING SOLID",
+      "accuracy": "93%",
+      "feedback": "Great timing and execution on this chord. It has the right amount of tension and release needed for the chorus."
+    },
+    {
+      "time": "0:39s",
+      "chord": "Am (shape)",
+      "analysisTitle": "CHORUS: Am — CLEAN CHANGE",
+      "accuracy": "94%",
+      "feedback": "Very smooth transition into the Am. The walk-up you mentioned would typically start from here, adding a nice melodic touch."
+    },
+    {
+      "time": "0:43s",
+      "chord": "F (shape)",
+      "analysisTitle": "CHORUS: F — CONSISTENTLY CHALLENGING",
+      "accuracy": "81%",
+      "feedback": "Again, the F barre chord proves to be the main hurdle. The B and high E strings are slightly muffled. Targeted practice on just this chord will pay off immensely."
+    },
+    {
+      "time": "0:49s",
+      "chord": "Dm (shape)",
+      "analysisTitle": "Dm — FINGER PLACEMENT",
+      "accuracy": "89%",
+      "feedback": "Clean chord, but the transition could be faster. Try anticipating the change and moving your fingers as a single unit."
+    },
+    {
+      "time": "0:52s",
+      "chord": "E7 (shape)",
+      "analysisTitle": "E7 — SONG CONCLUSION",
+      "accuracy": "91%",
+      "feedback": "You end the section with a well-played E7, resolving the musical phrase nicely. Good focus all the way to the end."
+    }
+  ]
+}
